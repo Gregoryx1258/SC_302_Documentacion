@@ -33,5 +33,11 @@ function eliminarFruta(fruta) {
 // *************** Espacio para desarrollador 4 ********************
 
 // *************** Espacio para desarrollador 4 ********************
+// Desarrollador 3 
 
+imprimirFrutas();  
+
+ 
+
+eliminarFruta("plátano"); 
 
