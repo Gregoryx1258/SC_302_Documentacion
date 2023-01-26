@@ -95,5 +95,8 @@ console.log(porcentaje(100, 20));
  
 
 console.log(promedio([2, 3, 5, 7, 11])); 
+// Desarrollador 3 
 
- 
+console.log(factorial(5)); 
+console.log(maximo([2, 3, 5, 7, 11])); 
+ // *************** Espacio para desarrollador 4 ********************
