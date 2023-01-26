@@ -15,7 +15,7 @@ function multiplicacion(a, b) {
     return a * b; 
 
 } 
-********** DESARROLADOR 4 *************
+//********** DESARROLADOR 4 *************
 // Desarrollador 1 
 
 function potencia(base, exponente) { 
@@ -23,3 +23,8 @@ function potencia(base, exponente) {
     return Math.pow(base, exponente); 
 
 } 
+// Desarrollador 2
+function raizCuadrada(n) {
+    return Math.sqrt(n);
+}
+
