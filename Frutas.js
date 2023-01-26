@@ -16,3 +16,19 @@ function agregarFruta(fruta) {
     frutas.push(fruta); 
 
 } 
+// Desarrollador 2 
+
+function eliminarFruta(fruta) { 
+
+    let index = frutas.indexOf(fruta); 
+
+    if (index > -1) { 
+
+        frutas.splice(index, 1); 
+
+    } 
+
+} 
+
+// *************** Espacio para desarrollador 4 ********************
+
