@@ -27,4 +27,20 @@ function potencia(base, exponente) {
 function raizCuadrada(n) {
     return Math.sqrt(n);
 }
+//********** DESARROLADOR 4 ************
+// Desarrollador 1 
 
+function promedio(numeros) { 
+
+    let suma = 0; 
+
+    for (let i = 0; i < numeros.length; i++) { 
+
+        suma += numeros[i]; 
+
+    } 
+
+    return suma / numeros.length; 
+
+} 
+//********** DESARROLADOR 4 ************
