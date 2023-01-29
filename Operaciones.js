@@ -31,7 +31,11 @@ function potencia(base, exponente) {
 function raizCuadrada(n) {
     return Math.sqrt(n);
 }
-//********** DESARROLADOR 4 ************
+// Desarrollador 4
+function porcentaje(n, porcentaje) {
+    return (n * porcentaje) / 100;
+}
+
 // Desarrollador 1 
 
 function promedio(numeros) { 
@@ -47,7 +51,11 @@ function promedio(numeros) {
     return suma / numeros.length; 
 
 } 
-//********** DESARROLADOR 4 ************
+// Desarrollador 4
+function porcentaje(n, porcentaje) {
+    return (n * porcentaje) / 100;
+}
+
 // Desarrollador 3 
 
 function maximo(numeros) { 
@@ -103,4 +111,7 @@ console.log(promedio([2, 3, 5, 7, 11]));
 
 console.log(factorial(5)); 
 console.log(maximo([2, 3, 5, 7, 11])); 
- // *************** Espacio para desarrollador 4 ********************
+ // Desarrollador 4
+
+console.log(minimo([2, 3, 5, 7, 11]));
+
