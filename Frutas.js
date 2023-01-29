@@ -30,9 +30,13 @@ function eliminarFruta(fruta) {
 
 } 
 
-// *************** Espacio para desarrollador 4 ********************
+// Desarrollador 4
+imprimirFrutas(); 
 
-// *************** Espacio para desarrollador 4 ********************
+// Desarrollador 4
+agregarFruta("kiwi");
+
+
 // Desarrollador 3 
 
 imprimirFrutas();  
